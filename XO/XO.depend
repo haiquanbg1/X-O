@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1678728722 source:e:\mygame\x o\xo.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	"bot.h"
+
+1678554365 e:\mygame\x o\bot.h
+
+1678508683 source:e:\mygame\x o\bot.cpp
+	"bot.h"
+
